@@ -1,0 +1,7 @@
+
+    Platform: win32
+    Arch: x64
+    Number of CPUs: 8
+    Total Memory: 15.70 GB
+    Free Memory: 7.83 GB
+    
